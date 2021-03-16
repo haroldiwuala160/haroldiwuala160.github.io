@@ -1,0 +1,55 @@
+.title{
+    text-align: center;
+    font-family: garamond;
+    color: black;
+    margin-top: 30px;
+}
+
+.essay{
+    margin: 20px;
+    color: black;
+    width: border;
+    padding: 16px;
+    border-style: ridge;
+    border-color: #1C1C1C;
+    font-size: 17.5px;
+    font: verdana;
+}
+
+ body{background-color: #FFF3F2; border-style: hidden; border-color: #FFF3F2;}
+
+a {
+    font-size: 16px;
+    color: #005EC3;
+}
+
+#indextitle{
+    margin-top: 20px;
+    font-family: verdana;
+    border-style: ridge;
+    border-color: black;
+    width: 475px;
+    padding: 20px;
+}
+
+p.intro{
+    width: border;
+    border-style: ridge;
+    border-color: black;
+    color: black;
+    padding: 20px;
+    font-size: 17.5px;
+}
+
+.notes{
+    margin-top: 10px;
+    font: verdana;
+    font-size: 17.5px;
+    border-color: black;
+    border-style: ridge;
+    text-align: left;
+}
+
+#maps{
+    margin-top: 0px;
+}
