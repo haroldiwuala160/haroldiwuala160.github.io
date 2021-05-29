@@ -1,0 +1,59 @@
+.opener {
+    text-align: center;
+    font-family: garamond;
+    color: #111111;
+    margin-top: 25px;
+}
+.first{
+    text-align: left;
+    margin: 10px;
+    font-family: helvetica;
+}
+.second{
+    text-align: left;
+    margin: 10px;
+    font-family: helvetica;
+}
+body{
+    background-color: #FFF3F2;
+    font-size: 20px;
+    color: #111111;
+    text-align: center;
+    margin: 10px;
+}
+#FirstBirthday{
+    width: 30%;
+    height: 30%;
+    float: right;
+    margin-right: 10px;
+}
+#BarcelonaTrip {
+    width: 30%;
+    height: 25%;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#ChemicalEngineers {
+    width: 60%;
+    height: 60%;
+    float: right;
+    margin-right: 25px;
+    margin-bottom: 30px;
+}
+.mini-opener {
+    text-align: center;
+    font-family: garamond;
+    color: #111111;
+    margin-top: 10px;
+}
+.list{
+    text-align: left;
+    margin: 10px;
+    font-family: helvetica;
+}
+#uIllinois {
+    width: 80%;
+    height: 500px;
+}
+
